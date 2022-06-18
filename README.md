@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Subhrajit Dey
+- 👋 Hi, I’m Subhrajit Dey.
 - 👀 I’m interested in Learning new things and I love to explore a subject
 - 🌱 I’m currently learning Machine Learning and DSA
 
